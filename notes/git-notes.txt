@@ -1,0 +1,16 @@
+
+git config --global user.name "Shinder Lin"
+git config --global user.email shinder.lin@gmail.com
+
+git config --list
+
+
+git clone <project-git-url>
+-------------
+
+
+git init
+
+git remote add origin https://bitbucket.org/lsd0125/fuen15-es6.git
+
+git push -u origin master
