@@ -1,6 +1,6 @@
 
-git config --global user.name "Shinder Lin"
-git config --global user.email shinder.lin@gmail.com
+git config --global user.name "Daniel"
+git config --global user.email a6511022000@gmail.com
 
 git config --list
 
@@ -11,6 +11,9 @@ git clone <project-git-url>
 
 git init
 
-git remote add origin https://bitbucket.org/lsd0125/fuen15-es6.git
+git remote add origin https://github.com/BearMochi/ES6.git
+
+git remote rm origin 如果不行add先刪除
+
 
 git push -u origin master
